@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Mini_fill_recycerview_project</string>
+
+    <string name="tehran">تهران</string>
+    <string name="esfahan">اصفهان</string>
+    <string name="yazd">یزد</string>
+    <string name="shiraz">شیراز</string>
+    <string name="karaj">کرج</string>
+    <string name="lorestan">لرستان</string>
+    <string name="arak">اراک</string>
+    <string name="gilan">گیلان</string>
+    <string name="warning">لطفا ارتباطات شبکه خود را چک کرده و مجددا برسی کنید </string>
+
+
+    <string name="azar_sharghi">آذربایجان شرقی</string>
+    <string name="azar_gharbi">آذربایجان غربی</string>
+    <string name="ardebil">اردبیل</string>
+    <string name="alborz">البرز</string>
+
+
+    <!-- <string name="ilam"></string>
+     <string name="boshehr"></string>
+     <string name="charmohal"></string>
+     <string name="khorasan"></string>
+ -->
+
+    <string name="ilam">ایلام</string>
+    <string name="bushehr">بوشهر</string>
+    <string name="charmohal">چهارمحال و بختیاری</string>
+    <string name="khorasan">خراسان</string>
+
+
+    <string name="khozestan">خوزستان</string>
+    <string name="mashhad">مشهد</string>
+    <string name="zanjan">زنجان</string>
+    <string name="semnan">سمنان</string>
+
+
+    <string name="sistan">سیستان و بلوچستان</string>
+    <string name="fars">فارس</string>
+    <string name="qazvin">قزوین</string>
+    <string name="qom">قم</string>
+
+
+    <string name="kordestan">کردستان</string>
+    <string name="kerman">کرمان</string>
+
+    <string name="kermanshah">کرمانشاه</string>
+    <string name="boyerahmad">کهگیلویه و بویراحمد</string>
+
+    <string name="weather_forecast">پیش بینی وضعیت آب و هوا</string>
+
+    <string name="high_temperature">حداقل دما : </string>
+    <string name="low_temperature">حداکثر دما : </string>
+    <string name="humidity">رطوبت : </string>
+
+</resources>

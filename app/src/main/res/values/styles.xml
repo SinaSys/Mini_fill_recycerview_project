@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/statusBar</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="custom_textStyle" parent="TextAppearance.AppCompat.Small">
+        <item name="android:textColor">#F44336</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+</resources>
